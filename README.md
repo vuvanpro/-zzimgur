@@ -10,4 +10,4 @@ Version 1.6 (12/28/2013)
 <http://goo.gl/nExWs4>
 
 ##Demo
-<http://goo.gl/mjYR0f>
+<https://taiimage.blogspot.com>
